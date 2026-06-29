@@ -19,7 +19,11 @@ for technical interviews!
 ## Progress
 | Topic | Problems Solved |
 |-------|----------------|
-| Arrays | 27 |
+| Arrays | 44 |
+| String | 28 |
+| Binary Search | 16 |
+| Sorting | 13|
+|
 | Linked List | 0 |
 | Stack/Queue | 0 |
 
