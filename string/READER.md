@@ -1,7 +1,9 @@
 ## Strings
 Problems solved on Strings
 | # | Problem | Platform 
+
 |344. ||Reverse String|
+
 |1108.|Defanging an IP Address|
 |1528. |Shuffle String|
 |1678. |Goal Parser Interpretation|
