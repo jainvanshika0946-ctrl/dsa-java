@@ -5,7 +5,7 @@
 Daily Data Structures & Algorithms 
 practice problems solved in Java.
 
-## Topics Covered
+## Topics
 - Arrays & Strings
 - Linked Lists
 - Stacks & Queues
@@ -19,12 +19,13 @@ for technical interviews!
 ## Progress
 | Topic | Problems Solved |
 |-------|----------------|
-| Arrays | 44 |
-| String | 28 |
+| Arrays | 50 |
+| String | 31 |
 | Binary Search | 16 |
 | Sorting | 13|
-|
-| Linked List | 0 |
-| Stack/Queue | 0 |
+|  Bit Manipulation | 17|
+|  Recursion | 3 |
+|Two Pointer | 18 |
 
-*Updated daily!*
+
+
